@@ -1,6 +1,6 @@
 
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
-[![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/blob/master/LICENSE.md)
+[![Apache License 2.0](https://img.shields.io/badge/license-Apache_License_2.0-5eba00.svg)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/blob/master/LICENSE.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh)
 [![Stars](https://img.shields.io/github/stars/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh.svg?style=social)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/stargazers)
 
