@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/blob/master/LICENSE.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh)
-[![Stars](https://img.shields.io/github/stars/AmitHasanShuvo/Machine-Learning-Projects.svg?style=social)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/stargazers)
+[![Stars](https://img.shields.io/github/stars/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh.svg?style=social)](https://github.com/AmitHasanShuvo/COVID-19-Analysis-of-Bangladesh/stargazers)
 
 # Author: Kazi Amit Hasan
 
@@ -27,7 +27,12 @@ This is originally a kaggle competition. I tried to visualize and analyze the co
 Then I tried to analyze the impacts of COVID-19 on Bangladesh by analyzing the confirmed, death and recovery graph plots and tried to predict the future rates by using Fbprophet algorithm. <br>
 
 ## Data Visualizations
+Confirmed Cases:
 ![alt text](rates.png "Title")
+Recovery Cases:
+![alt text](rec.png "Title")
+Death Cases:
+![alt text](del.png "Title")
 
 
 ## Results
