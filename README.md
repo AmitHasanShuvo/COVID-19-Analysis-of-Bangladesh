@@ -26,6 +26,10 @@ After downloading the datasets, unzip them and you can see two csv files named "
 This is originally a kaggle competition. I tried to visualize and analyze the confirmed, death and recovery rates of various countries.
 Then I tried to analyze the impacts of COVID-19 on Bangladesh by analyzing the confirmed, death and recovery graph plots and tried to predict the future rates by using Fbprophet algorithm. <br>
 
+## Data Visualizations
+![alt text](rates.png "Title")
+
+
 ## Results
-1. The percentage of Predicted recovery after confirmation is 17.53% and
+1. The percentage of Predicted recovery after confirmation is 17.53%.
 2. The percentage of Predicted Death after confirmation is 1.32%.
